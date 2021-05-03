@@ -15,6 +15,6 @@ My name is William Aquino, I have a degree in Information Systems from Centro Un
 <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="html" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></img>
- <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width: 100%;"></img>
-  <img src="https://icon-icons.com/pt/icone/github-logo/73546" alt="github" width="40" height="40" style="max-width: 100%;"></img>
-  <img src="https://icon-icons.com/pt/icone/arquivo-tipo-flutter/130599" alt="flutter" width="40" height="40" style="max-width: 100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width: 100%;"></img>
+<img src="https://icon-icons.com/pt/icone/github-logo/73546" alt="github" width="40" height="40" style="max-width: 100%;"></img>
+<img src="https://icon-icons.com/pt/icone/arquivo-tipo-flutter/130599" alt="flutter" width="40" height="40" style="max-width: 100%;"></img>
