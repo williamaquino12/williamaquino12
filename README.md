@@ -18,3 +18,6 @@ My name is William Aquino, I have a degree in Information Systems from Centro Un
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" alt="kotlin" width="40" height="40" style="max-width: 100%;"></img>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamaquino12&layout=compact)](https://github.com/williamaquino12/github-readme-stats)
+
