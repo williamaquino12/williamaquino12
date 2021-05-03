@@ -11,3 +11,5 @@ My name is William Aquino, I have a degree in Information Systems from Centro Un
 <a href="https://www.instagram.com/_williamaquino/?igshid=1izwse699toiz" target="_blank">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="william-instagram" style="max-width: 100%;"></a>
 
+## My Skills
+<img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="github" width="40" height="40" style="max-width: 100%;">
