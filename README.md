@@ -1,6 +1,6 @@
 # Hey 👋🏿
 
-My name is William Aquino, I have a degree in Information Systems from Centro Universitário Maurício de Nassau. I have knowledge in HTML, CSS and JavaScript. I am currently looking for knowledge in react native.
+My name is William Aquino, I have a degree in Information Systems from Centro Universitário Maurício de Nassau. I have knowledge in Html, Css, Bootstrap and JavaScript. I am currently looking for knowledge in react native.
 
 #### 🌍 "Quanto mais eu sei, mais eu sou"🧠
 
