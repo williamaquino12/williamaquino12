@@ -16,7 +16,7 @@ My name is William Aquino, I have a degree in Information Systems from Centro Un
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="javascript" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png alt="reactnative" width="40" height="40" style="max-width: 100%;"></img>
+<img src= "https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="reactnative" width="40" height="40" style="max-width: 100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width: 100%;"></img>
 
 
